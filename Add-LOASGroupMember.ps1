@@ -91,5 +91,5 @@ or
 
 Add-LOASGroupMember -accountname "doamin\account"
 #>
-$account = "portland_nt\siemcolservice"
+$account = "domain\username"
 Add-LOASGroupMember -accountname $account
