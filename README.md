@@ -1,7 +1,7 @@
 # LogonAsService
 Powershell functions to manipulate "Logon As Service" in local Secpol.msc
 
-These functions and add an account to "Logon As Service" and also display all accounts that have the ability to "Logon As Service"
+These functions are to add an account to "Logon As Service" and also display all accounts that have the ability to "Logon As Service"
 
 Function files
 Add-LOASGroupMember.ps1
