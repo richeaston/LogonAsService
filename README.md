@@ -19,7 +19,9 @@ Usage:
 Get-LOASGroupMembers 
 
 or 
+
 $account = [domain\username]
+
 get-LOASGroupMembers | Where {$_.username -eq $account}
 
 ==================================================
